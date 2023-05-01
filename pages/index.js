@@ -27,7 +27,7 @@ export default function Home() {
                 Name
               </div>
               <div className="relative">
-                <input className="mb-4 w-full bg-transparent outline-none self-stretch rounded-md box-border h-[46px] px-4 pr-80 text-mini border-[1px] border-solid border-gray-300" type="email" placeholder="Email Address" required />
+                <input className="mb-4 w-full bg-transparent outline-none self-stretch rounded-md box-border h-[46px] px-4 pr-80 text-mini border-[1px] border-solid border-gray-300" type="email" placeholder="Bryan Koelpin" required />
                 <img
                   className="absolute right-3 top-3 w-5 h-5"
                   alt=""
@@ -55,7 +55,7 @@ export default function Home() {
                   Password*
                 </div>
                 <div className="relative">
-                <input className="self-stretch bg-transparent rounded-md w-full box-border h-[46px] px-4 pr-17 text-mini border-[1px] border-solid border-neutral-400" type="text" placeholder="Bryan Koelpin" required />
+                <input className="self-stretch bg-transparent rounded-md w-full box-border h-[46px] px-4 pr-17 text-mini border-[1px] border-solid border-neutral-400" type="text" placeholder="Password" required />
                 <img
                   className="absolute right-3 top-3 w-5 h-5"
                   alt=""
@@ -71,7 +71,7 @@ export default function Home() {
                   Confirm Password*
                 </div>
                 <div className="relative">
-                <input className="self-stretch bg-transparent rounded-md box-border h-[46px] px-4 pr-18 text-mini border-[1px] border-solid border-neutral-400" type="text" placeholder="Bryan Koelpin" required />
+                <input className="self-stretch bg-transparent rounded-md box-border h-[46px] px-4 pr-18 text-mini border-[1px] border-solid border-neutral-400" type="text" placeholder="Confirm Password" required />
                 <img
                   className="absolute right-3 top-3 w-5 h-5"
                   alt=""
